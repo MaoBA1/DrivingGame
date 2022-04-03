@@ -1,0 +1,14 @@
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\bin\Debug\23_11.exe.config
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\bin\Debug\23_11.exe
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\bin\Debug\23_11.pdb
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\obj\Debug\23_11.csprojAssemblyReference.cache
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\obj\Debug\23_11.csproj.CoreCompileInputs.cache
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\obj\Debug\23_11.exe
+E:\תכנות מונחה עצמים\מעבדה\23_11\23_11\obj\Debug\23_11.pdb
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\bin\Debug\23_11.exe.config
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\bin\Debug\23_11.exe
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\bin\Debug\23_11.pdb
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\obj\Debug\23_11.csprojAssemblyReference.cache
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\obj\Debug\23_11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\obj\Debug\23_11.exe
+C:\Users\User\Desktop\מאור\DrivingGame\23_11\obj\Debug\23_11.pdb
